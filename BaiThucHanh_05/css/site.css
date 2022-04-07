@@ -6,7 +6,7 @@
 
 body {
     min-height: 1300px;
-    background-image: url(/images/bg-top.jpg), url(/images/bg-bottom.jpg);
+    background-image: url(../images/bg-top.jpg), url(../images/bg-bottom.jpg);
     background-repeat: no-repeat, no-repeat;
     background-position: top center, bottom center;
     background-color: #f2f2f2;
