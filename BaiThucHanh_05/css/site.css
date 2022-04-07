@@ -84,7 +84,7 @@ a:hover {
 }
 
 #tai-game {
-    background-image: url(/images/btn_taigame.jpg);
+    background-image: url(../images/btn_taigame.jpg);
     background-repeat: no-repeat;
     background-position: 0 0;
     height: 128px;
@@ -96,7 +96,7 @@ a:hover {
 
 #dang-ky,
 #nap-the {
-    background-image: url(/images/buttons-left.png);
+    background-image: url(../images/buttons-left.png);
     height: 62px;
 }
 
@@ -132,7 +132,7 @@ a:hover {
 #ho-tro,
 #nap-vang,
 #nap-vip {
-    background-image: url(/images/buttons-right.png);    
+    background-image: url(../images/buttons-right.png);    
     background-repeat: no-repeat;
 }
 #giang-ho {
@@ -149,5 +149,5 @@ a:hover {
 }
 #hotline {
     grid-column: 1/3;
-    background-image: url(/images/hotline.png);
+    background-image: url(../images/hotline.png);
 }
